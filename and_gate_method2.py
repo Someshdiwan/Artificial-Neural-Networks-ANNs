@@ -1,5 +1,7 @@
 
-# perceptron implementation code 
+Implementation of AND Gate Using Single Layer Perceptron (ANN)
+
+# perceptron implementation code
 
 import numpy as np
 
