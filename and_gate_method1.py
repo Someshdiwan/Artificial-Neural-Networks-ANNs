@@ -1,5 +1,4 @@
 
-
 import numpy as np
 
 # Define the activation function (step function)
@@ -47,4 +46,20 @@ print("Trained weights:", perceptron.weights)
 print("Testing AND gate:")
 for inputs in training_inputs:
     print(f"{inputs} -> {perceptron.predict(inputs)}")
-            
+
+//Initialization:
+
+The weights are initialized to zeros, including a bias term.
+The learning_rate defines the step size for weight updates.
+The epochs parameter specifies the number of times the training set is processed.
+Training:
+
+For each training input, the perceptron computes the output using a weighted sum and the step activation function.
+The weights are updated based on the error
+(difference between actual and predicted output).
+
+Testing:
+
+After training, the perceptron is tested on the inputs to verify if it behaves as expected for an AND gate.
+
+    
