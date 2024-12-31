@@ -1,4 +1,6 @@
 
+Implementation of AND Gate Using Single Layer Perceptron (ANN)
+
 import numpy as np
 
 # Define the activation function (step function)
