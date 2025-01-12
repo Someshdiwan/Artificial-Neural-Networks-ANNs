@@ -63,7 +63,7 @@ Artificial-Neural-Networks/
 ├── and_gate.png                # Visualization of the AND gate
 ├── README.md                   # Project documentation
 ```
----
+```
 🚀 Running the Code
 Clone the repository:
 
@@ -74,7 +74,7 @@ Navigate to the project directory:
 cd Artificial-Neural-Networks
 
 Open and run the Python scripts (e.g., XOR Gate Using Backpropagation in Multilayered Perceptron.py) to see the implementations in action.
----
+```
 
 ## 🌟 Show Your Support  
 
