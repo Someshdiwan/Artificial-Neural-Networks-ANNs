@@ -5,7 +5,6 @@ practical implementations of Artificial Neural Networks (ANNs) using Python. The
 <img src="https://drive.google.com/uc?export=view&id=1ysuxl8r-OxU7uTGdHsRLFq4bPI4VS4ui" width="400" height="auto" />
 
 <img src="https://drive.google.com/uc?export=view&id=1pd9BaP0kpDG6fNCac3QvisHFVONv48gM" width="400" height="auto" />
----
 
 ## 🚀 Overview
 
@@ -42,6 +41,9 @@ This repository showcases fundamental ANN techniques and implementations for **l
 ## 🌐 Demo
 
 You can try out the different logic gate implementations by running the provided Python scripts. Each implementation includes detailed comments to guide you through the process.
+
+<img src="https://drive.google.com/uc?export=view&id=12AZxXemxSRLBr0KtdR0NCIB4657TkbpV" width="400" height="auto" />
+
 
 ---
 
