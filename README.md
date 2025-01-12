@@ -1,56 +1,58 @@
 # Artificial Neural Networks (ANN) Implementations
 
-This repository contains practical implementations of **Artificial Neural Networks (ANNs)** using Python. The primary focus is on demonstrating core ANN concepts and applications, especially in **logic gate simulations** such as **XOR**, **AND**, **OR**, and **NOT** gates. The repository includes implementations using architectures like **Feedforward Neural Networks** and **Multilayer Perceptrons (MLP)**, employing methods such as **backpropagation** and **perceptron learning**.
+practical implementations of Artificial Neural Networks (ANNs) using Python. The focus of this project is on demonstrating the basic concepts and applications of ANNs, particularly in logic gate simulations, such as XOR, AND, OR, and NOT gates. The implementations use different architectures like **Feedforward Neural Networks** and **Multilayer Perceptrons (MLP)** with backpropagation and perceptron learning methods.
 
-![ANN Implementation](https://drive.google.com/uc?export=view&id=1ysuxl8r-OxU7uTGdHsRLFq4bPI4VS4ui)
-![XOR Gate](https://drive.google.com/uc?export=view&id=1pd9BaP0kpDG6fNCac3QvisHFVONv48gM)
+<img src="https://drive.google.com/uc?export=view&id=1ysuxl8r-OxU7uTGdHsRLFq4bPI4VS4ui" width="700" height="auto" />
 
----
+<img src="https://drive.google.com/uc?export=view&id=1pd9BaP0kpDG6fNCac3QvisHFVONv48gM" width="500" height="auto" />
 
 ## 🚀 Overview
 
-**Artificial Neural Networks (ANNs)** are computational models inspired by the biological neural networks in the human brain. ANNs are widely used in applications such as **image recognition**, **natural language processing**, and **decision-making tasks**. 
+Artificial Neural Networks (ANNs) are a class of machine learning algorithms inspired by the human brain's structure and functioning. ANNs are widely used in various applications like image recognition, natural language processing, and logic-based decision-making.
 
-In this repository, we focus on **logic gate simulations** using ANNs, specifically implementing **XOR**, **AND**, **OR**, and **NOT** gates with different neural network architectures.
+This repository showcases fundamental ANN techniques and implementations for **logic gate simulations** and **perceptron models**.
 
-Key implementations include:
+### Key Implementations:
 
-- **XOR Gate Using Backpropagation**: A model for learning the XOR logic gate using backpropagation in a multilayered perceptron (MLP).
-- **XOR Gate Using Feedforward MLP**: Simulation of the XOR gate using a feedforward multilayered perceptron.
-- **AND, OR, and NOT Gates**: Perceptron models to simulate logical **AND**, **OR**, and **NOT** gates.
-- **Multiple Techniques**: Different approaches to neural network design for gate simulation.
+- **XOR Gate Using Backpropagation**: A neural network model for learning the XOR logic gate using backpropagation in a multilayered perceptron (MLP).
+- **XOR Gate Using Feedforward MLP**: Implementing XOR logic gate simulation using a feedforward multilayered perceptron.
+- **AND, OR, and NOT Gates**: Perceptron implementations to simulate logical AND, OR, and NOT gates.
+- **Multiple Methods**: Various techniques to implement the same gates, demonstrating different approaches to neural network design and training.
 
-![Logic Gates ANN](https://drive.google.com/uc?export=view&id=142aCasLwlFBaQu2gxkmOV31vOveWqzux)
-![Training Process](https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f)
+<img src="https://drive.google.com/uc?export=view&id=142aCasLwlFBaQu2gxkmOV31vOveWqzux" width="700" height="auto" />
+
+<img src="https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f" width="500" />
 
 ---
 
 ## 🔧 Features
 
-- **XOR Gate Implementations**: Learn to model the XOR gate using both **backpropagation** and **feedforward networks**.
-- **Logical Gate Simulations**: Perceptron models for **AND**, **OR**, and **NOT** gates.
-- **Backpropagation**: Implement backpropagation for training multilayered perceptrons.
-- **Visualization**: Includes graphs and visualizations of logic gates and neural network training results.
-- **Python Code**: All code is implemented in Python using libraries like **NumPy** for numerical computations.
+- **XOR Gate Implementations**: Learn how to model the XOR gate using both **backpropagation** and **feedforward networks**.
+- **Logical Gates**: Perceptron models to simulate **AND**, **OR**, and **NOT** gates.
+- **Backpropagation**: Implement backpropagation in multilayered perceptrons to optimize neural network training.
+- **Python Code**: All code is written in Python using popular libraries like **NumPy** for matrix operations and calculations.
+- **Visualizations**: Includes visualizations and graphical representations of the logic gates and neural network outputs.
 
-![Visualizing XOR Gate](https://drive.google.com/uc?export=view&id=1HjpofSTYYGaCX-komOSkDbZPQlYVN_U4)
+<img src="https://drive.google.com/uc?export=view&id=1HjpofSTYYGaCX-komOSkDbZPQlYVN_U4" width="700" />
+
 
 ---
 
 ## 🌐 Demo
 
-To explore the different logic gate implementations, run the provided Python scripts. Each implementation is well-commented to help you understand the logic behind the code and neural network operations.
+You can try out the different logic gate implementations by running the provided Python scripts. Each implementation includes detailed comments to guide you through the process.
 
-![Logic Gate Demo](https://drive.google.com/uc?export=view&id=12AZxXemxSRLBr0KtdR0NCIB4657TkbpV)
+<img src="https://drive.google.com/uc?export=view&id=12AZxXemxSRLBr0KtdR0NCIB4657TkbpV" width="500" height="auto" />
+
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**: The programming language used for all implementations.
-- **NumPy**: For numerical and matrix operations.
-- **Matplotlib**: For visualizations.
-- **Pandas**: For data manipulation and analysis.
+- Python 3.x
+- NumPy
+- Matplotlib (for visualizations)
+- Pandas
 
 ---
 
@@ -67,7 +69,7 @@ Artificial-Neural-Networks/
 ├── and_gate.png                # Visualization of the AND gate
 ├── README.md                   # Project documentation
 ```
----
+```
 🚀 Running the Code
 Clone the repository:
 
@@ -78,8 +80,7 @@ Navigate to the project directory:
 cd Artificial-Neural-Networks
 
 Open and run the Python scripts (e.g., XOR Gate Using Backpropagation in Multilayered Perceptron.py) to see the implementations in action.
-
----
+```
 
 ## 🌟 Show Your Support  
 
@@ -87,4 +88,3 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 
 🤝 Contributing
 We welcome contributions to improve the repository! If you have any enhancements, bug fixes, or new ideas for additional neural network applications, feel free to fork the repository, make changes, and submit a pull request.
----
