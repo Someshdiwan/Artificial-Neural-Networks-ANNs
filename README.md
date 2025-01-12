@@ -74,12 +74,11 @@ Navigate to the project directory:
 cd Artificial-Neural-Networks
 
 Open and run the Python scripts (e.g., XOR Gate Using Backpropagation in Multilayered Perceptron.py) to see the implementations in action.
-
 ---
+
 ## 🌟 Show Your Support  
 
 If you like this project, please consider giving it a ⭐ on GitHub!
 
 🤝 Contributing
 We welcome contributions to improve the repository! If you have any enhancements, bug fixes, or new ideas for additional neural network applications, feel free to fork the repository, make changes, and submit a pull request.
-```
