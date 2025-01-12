@@ -21,6 +21,8 @@ This repository showcases fundamental ANN techniques and implementations for **l
 - **Multiple Methods**: Various techniques to implement the same gates, demonstrating different approaches to neural network design and training.
 
 ![ANN](https://miro.medium.com/v2/resize:fit:828/format:webp/1*JVm4m33dGS1-dxsAh_H4QA.png)
+<img src="https://drive.google.com/uc?export=view&id=1HjpofSTYYGaCX-komOSkDbZPQlYVN_U4" width="400" />
+
 
 ---
 
