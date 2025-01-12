@@ -4,6 +4,7 @@ practical implementations of Artificial Neural Networks (ANNs) using Python. The
 
 <img src="https://drive.google.com/uc?export=view&id=1ysuxl8r-OxU7uTGdHsRLFq4bPI4VS4ui" width="400" height="auto" />
 
+<img src="https://drive.google.com/uc?export=view&id=1pd9BaP0kpDG6fNCac3QvisHFVONv48gM" width="400" height="auto" />
 ---
 
 ## 🚀 Overview
@@ -22,11 +23,6 @@ This repository showcases fundamental ANN techniques and implementations for **l
 <img src="https://drive.google.com/uc?export=view&id=142aCasLwlFBaQu2gxkmOV31vOveWqzux" width="400" height="auto" />
 
 <img src="https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f" width="400" />
-
-![ANN Working](https://img.shields.io/github/stars/Someshdiwan/Artificial-Neural-Networks-ANNs)
-
-<img src="https://drive.google.com/uc?export=view&id=1pd9BaP0kpDG6fNCac3QvisHFVONv48gM" width="400" height="auto" />
-
 
 ---
 
