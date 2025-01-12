@@ -4,6 +4,9 @@ practical implementations of Artificial Neural Networks (ANNs) using Python. The
 
 <img src="https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f" width="400" />
 
+<img src="https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f" width="400" height="auto" />
+
+
 
 ---
 
