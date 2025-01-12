@@ -4,6 +4,9 @@ The primary focus is on demonstrating core ANN concepts and applications, especi
 
 The repository includes implementations using architectures like **Feedforward Neural Networks** and **Multilayer Perceptrons (MLP)**, employing methods such as **backpropagation** and **perceptron learning**.
 
+![GitHub License](https://img.shields.io/github/license/Someshdiwan/Artificial-Neural-Networks-ANNs)
+![GitHub stars](https://img.shields.io/github/stars/Someshdiwan/Artificial-Neural-Networks-ANNs)
+
 <img src="https://drive.google.com/uc?export=view&id=1ysuxl8r-OxU7uTGdHsRLFq4bPI4VS4ui" width="700" height="auto" />
 
 <img src="https://drive.google.com/uc?export=view&id=1pd9BaP0kpDG6fNCac3QvisHFVONv48gM" width="500" height="auto" />
