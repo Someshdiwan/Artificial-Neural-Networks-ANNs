@@ -2,11 +2,9 @@
 
 practical implementations of Artificial Neural Networks (ANNs) using Python. The focus of this project is on demonstrating the basic concepts and applications of ANNs, particularly in logic gate simulations, such as XOR, AND, OR, and NOT gates. The implementations use different architectures like **Feedforward Neural Networks** and **Multilayer Perceptrons (MLP)** with backpropagation and perceptron learning methods.
 
+<img src="https://drive.google.com/uc?export=view&id=1ysuxl8r-OxU7uTGdHsRLFq4bPI4VS4ui" width="400" height="auto" />
+
 <img src="https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f" width="400" />
-
-<img src="https://drive.google.com/uc?export=view&id=1ZsVf8RR_3gtdvB8qNjxUk3v5mx8xgc4f" width="400" height="auto" />
-
-
 
 ---
 
@@ -24,6 +22,7 @@ This repository showcases fundamental ANN techniques and implementations for **l
 - **Multiple Methods**: Various techniques to implement the same gates, demonstrating different approaches to neural network design and training.
 
 ![ANN Working](https://img.shields.io/github/stars/Someshdiwan/Artificial-Neural-Networks-ANNs)
+
 
 ---
 
