@@ -35,7 +35,7 @@ This repository showcases fundamental ANN techniques and implementations for **l
 - **Python Code**: All code is written in Python using popular libraries like **NumPy** for matrix operations and calculations.
 - **Visualizations**: Includes visualizations and graphical representations of the logic gates and neural network outputs.
 
-<img src="https://drive.google.com/uc?export=view&id=1HjpofSTYYGaCX-komOSkDbZPQlYVN_U4" width="700" />
+<img src="https://drive.google.com/uc?export=view&id=1HjpofSTYYGaCX-komOSkDbZPQlYVN_U4" width="500" />
 
 
 ---
